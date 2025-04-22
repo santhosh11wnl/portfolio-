@@ -80,7 +80,7 @@ const HeroSection: React.FC = () => {
               </div>
               <div className="absolute -bottom-4 -right-4 bg-card shadow-lg rounded-lg p-4 border border-border">
                 <div className="text-sm font-medium text-muted-foreground">Current Position</div>
-                <div className="font-semibold">AI/ML Engineer @ AT&T</div> 
+                <div className="font-semibold">AI/ML Engineer @ Cleveland Clinic</div> 
               </div>
             </div>
           </div>
