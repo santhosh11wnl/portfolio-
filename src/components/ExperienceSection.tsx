@@ -5,8 +5,8 @@ const ExperienceSection: React.FC = () => {
   const experiences = [
     {
       title: "AI/Machine Learning Engineer",
-      company: "AT&T",
-      location: "Dallas, TX",
+      company: "Cleveland Clinic",
+      location: "Ohio",
       period: "June 2024 - Present",
       achievements: [
         "Designed and implemented a scalable vector database leveraging NeonDB, Pinecone, Weaviate, and pgvector to enable high-performance semantic search and efficient similarity retrieval across diverse data sources.",
